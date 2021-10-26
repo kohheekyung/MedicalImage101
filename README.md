@@ -1,5 +1,4 @@
 # MedicalImage101
-___
 
 This repository contains python codes related to medical image preprocessing using simpleITK, vtk or 3Dslicer
 
