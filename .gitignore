@@ -1,3 +1,6 @@
 ## Ignore File
+
 *.ipynb_checkpoints
 *.idea
+
+*./data
